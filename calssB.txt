@@ -1,1 +1,1 @@
-classB txt
+ClassB txt
